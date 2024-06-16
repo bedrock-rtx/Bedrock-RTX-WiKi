@@ -7,7 +7,7 @@
 Welcome to the `Unofficial` Wiki for Minecraft Bedrock RTX. This space is dedicated to providing tutorials, blogs, and guides to help you make the most out of Minecraft with RTX.
 
 !!!info Info
-This is not affiliated with Mojang Studios.
+This site is not affiliated with Mojang Studios.
 !!!
 
 ## Contents

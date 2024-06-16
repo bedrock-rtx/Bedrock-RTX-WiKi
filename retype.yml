@@ -12,11 +12,11 @@ links:
     icon: home-fill
 
   - text: GitHub
-    link: /getting-started.md
+    link: "https://github.com/bedrock-rtx/Bedrock-RTX-WiKi"
     icon: "mark-github" 
     
   - text: Discord
-    link: /getting-started.md 
+    link: "https://discord.gg/REpMEFWV65"
     icon: "/static/discord.svg"        
 
          
@@ -28,7 +28,18 @@ breadcrumb:
   enabled: true               
   home: Home                  
   home: ":icon-home:"         
-  separator: "|"              
+  separator: "|"     
+
+edit:
+  repo: "https://github.com/bedrock-rtx/Bedrock-RTX-WiKi"
+  base: ""
+  branch: "retype"
+  label: "Edit this page"
+         
 
 footer:
+  
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
+  links:
+    - text: This site is not affiliated with Mojang Studios.
+      link: ""
