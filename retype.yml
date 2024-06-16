@@ -1,0 +1,34 @@
+input: .
+output: .retype
+url: # Add your website address here
+branding:
+  title: Bedrock RTX WiKi
+  # label: RTX
+  logo: static/logo.png
+links:                        
+                              
+  - text: Home                
+    link: index.md 
+    icon: home-fill
+
+  - text: GitHub
+    link: /getting-started.md
+    icon: "mark-github" 
+    
+  - text: Discord
+    link: /getting-started.md 
+    icon: "/static/discord.svg"        
+
+         
+                              
+    iconAlign: left           
+    target: blank             
+                              
+breadcrumb:
+  enabled: true               
+  home: Home                  
+  home: ":icon-home:"         
+  separator: "|"              
+
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
