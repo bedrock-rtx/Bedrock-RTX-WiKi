@@ -16,7 +16,6 @@ This is not affiliated with Mojang Studios.
 - [Tutorials](#tutorials)
 - [Blogs](#blogs)
 - [Guides](#guides)
-- [Contributing](#contributing)
 - [Contact Us](#contact-us)
 
 ## Introduction
@@ -30,9 +29,6 @@ Read our latest blogs for insights, news, and updates about Minecraft Bedrock an
 
 ## Guides
 Our guides cover a range of topics to help you enhance your Minecraft RTX gameplay, from building tips to shader customization.
-
-## Contributing
-We welcome contributions from the community. Please read our [contributing guidelines](contributing.md) to get started.
 
 ## Contact Us
 If you have any questions or need further assistance, feel free to [contact us](/contact.md).
