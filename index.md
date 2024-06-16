@@ -23,13 +23,13 @@ This is not affiliated with Mojang Studios.
 Minecraft Bedrock RTX brings stunning ray tracing graphics to the game. Dive into this Wiki to learn how to set up and optimize your Minecraft experience with RTX.
 
 ## Tutorials
-Explore our collection of [tutorials](https://example.com/tutorials) to learn everything from basic RTX features to advanced techniques.
+Explore our collection of tutorials to learn everything from basic RTX features to advanced techniques.
 
 ## Blogs
-Read our latest [blogs](https://example.com/blogs) for insights, news, and updates about Minecraft Bedrock RTX.
+Read our latest blogs for insights, news, and updates about Minecraft Bedrock and Bedrock RTX.
 
 ## Guides
-Our [guides](https://example.com/guides) cover a range of topics to help you enhance your Minecraft RTX gameplay, from building tips to shader customization.
+Our guides cover a range of topics to help you enhance your Minecraft RTX gameplay, from building tips to shader customization.
 
 ## Contributing
 We welcome contributions from the community. Please read our [contributing guidelines](contributing.md) to get started.
