@@ -1,0 +1,84 @@
+{
+    "name": "Bedrock RTX Wiki",
+    "description": "A comprehensive guide for Minecraft Bedrock RTX with tutorials, blogs, and guides.",
+    "theme": "default",
+    "edit": {
+      "repo": "https://github.com/bedrock-rtx/Bedrock-RTX-WiKi",
+      "base": "",
+      "branch": "main",
+      "label": "Edit this page"
+    },
+    "seo": {
+      "title": "Minecraft Bedrock RTX Wiki - Tutorials, Blogs, and Guides",
+      "description": "Learn how to set up and optimize Minecraft Bedrock RTX with our detailed tutorials, blogs, and guides.",
+      "keywords": ["Minecraft", "Bedrock", "RTX", "tutorials", "guides", "blogs", "Bedrock RTX", "Bedrock RTX Wiki", "Minecraft Bedrock RTX", "Minecraft Bedrock RTX Wiki", "Minecraft Bedrock RTX tutorials", "Minecraft Bedrock RTX guides", "Minecraft Bedrock RTX blogs", "Minecraft Bedrock RTX Wiki tutorials", "Minecraft Bedrock RTX Wiki guides", "Minecraft Bedrock RTX Wiki blogs", "Minecraft Bedrock RTX Wiki tutorials", "Minecraft Bedrock RTX Wiki guides", "Minecraft Bedrock RTX Wiki blogs", "PBR", "PBR Textures", "PBR Textures Pack", "PBR Textures Pack Bedrock", "PBR Textures Pack Bedrock RTX", "PBR Textures Pack Bedrock RTX Wiki", "PBR Textures Pack Bedrock RTX Wiki tutorials", "PBR Textures Pack Bedrock RTX Wiki guides", "PBR Textures Pack Bedrock RTX Wiki blogs", "PBR Textures Pack Bedrock RTX Wiki tutorials", "PBR Textures Pack Bedrock RTX Wiki guides", "PBR Textures Pack Bedrock RTX Wiki blogs", "PBR Textures Pack Bedrock RTX Wiki tutorials", "PBR Textures Pack Bedrock RTX Wiki guides", "PBR Textures Pack Bedrock RTX Wiki blogs"],
+      "author": "Bedrock RTX Community"
+    },
+    "features": {
+      "search": true,
+      "darkMode": true,
+      "toc": true,
+      "sitemap": true
+    },
+    "output": "public",
+    "url": "https://bedrock-rtx.github.io/Bedrock-RTX-WiKi/",
+    "branding": {
+      "title": "Bedrock RTX WiKi",
+      "logo": "static/logo.png"
+    },
+    "links": [
+      {
+        "text": "Home",
+        "link": "index.md",
+        "icon": "home-fill"
+      },
+      {
+        "text": "GitHub",
+        "link": "https://github.com/bedrock-rtx/Bedrock-RTX-WiKi",
+        "icon": "mark-github"
+      },
+      {
+        "text": "Discord",
+        "link": "https://discord.gg/REpMEFWV65",
+        "icon": "/static/discord.svg",
+        "iconAlign": "left",
+        "target": "blank"
+      }
+    ],
+    "navigation": [
+      {
+        "label": "Home",
+        "path": "/"
+      },
+      {
+        "label": "Tutorials",
+        "path": "/tutorials"
+      },
+      {
+        "label": "Blogs",
+        "path": "/blogs"
+      },
+      {
+        "label": "Guides",
+        "path": "/guides"
+      },
+      {
+        "label": "Contributing",
+        "path": "/contributing"
+      },
+      {
+        "label": "Contact",
+        "path": "/contact"
+      }
+    ],
+    "footer": {
+      "copyright": "&copy; Copyright {{ year }}. All rights reserved.",
+      "links": [
+        {
+          "text": "This site is not affiliated with Mojang Studios.",
+          "link": ""
+        }
+      ]
+    }
+  }
+  
