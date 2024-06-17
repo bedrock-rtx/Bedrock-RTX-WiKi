@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: /sitemap.xml.gz
+Sitemap: https://bedrock-rtx.github.io/Bedrock-RTX-WiKi/sitemap.xml.gz
