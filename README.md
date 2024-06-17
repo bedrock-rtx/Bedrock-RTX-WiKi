@@ -14,7 +14,7 @@ This repository hosts the documentation, tutorials, and guides for Minecraft Bed
 
 ## Contributing
 
-We welcome contributions to enhance our WiKi! Please join our Discord community for discussions and collaboration. See our [Contributing Guidelines](CONTRIBUTING.md) for more details.
+We welcome contributions to enhance our WiKi! Please join our Discord community for discussions and collaboration.
 
 ## Contact Us
 
@@ -49,4 +49,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-© {{ year }} Bedrock RTX Community. This site is not affiliated with Mojang Studios.
+© 2024 Bedrock RTX Community. This site is not affiliated with Mojang Studios.
