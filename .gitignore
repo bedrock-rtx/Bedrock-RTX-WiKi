@@ -1,6 +1,6 @@
 node_modules/
 .retype/
-public/
+# public/
 .env
 npm-debug.log
 .vscode/
