@@ -1,0 +1,45 @@
+input: .
+output: .retype
+url: # Add your website address here
+branding:
+  title: Bedrock RTX WiKi
+  # label: RTX
+  logo: static/logo.png
+links:                        
+                              
+  - text: Home                
+    link: index.md 
+    icon: home-fill
+
+  - text: GitHub
+    link: "https://github.com/bedrock-rtx/Bedrock-RTX-WiKi"
+    icon: "mark-github" 
+    
+  - text: Discord
+    link: "https://discord.gg/REpMEFWV65"
+    icon: "/static/discord.svg"        
+
+         
+                              
+    iconAlign: left           
+    target: blank             
+                              
+breadcrumb:
+  enabled: true               
+  home: Home                  
+  home: ":icon-home:"         
+  separator: "|"     
+
+edit:
+  repo: "https://github.com/bedrock-rtx/Bedrock-RTX-WiKi"
+  base: ""
+  branch: "retype"
+  label: "Edit this page"
+         
+
+footer:
+  
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
+  links:
+    - text: This site is not affiliated with Mojang Studios.
+      link: ""
