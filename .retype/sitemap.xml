@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>/</loc>
+    <lastmod>2024-06-16T13:08:12Z</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>/blogs/betterrtx-install/</loc>
+    <lastmod>2024-06-16T13:30:12Z</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>/contact/</loc>
+    <lastmod>2024-06-16T11:52:56Z</lastmod>
+    <priority>0.52</priority>
+  </url>
+  <url>
+    <loc>/tutorials/tut/</loc>
+    <lastmod>2024-06-16T13:14:17Z</lastmod>
+    <priority>0.35</priority>
+  </url>
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2024-06-17T03:52:01Z</lastmod>
+    <priority>0.28</priority>
+  </url>
+  <url>
+    <loc>/tags/guide/</loc>
+    <lastmod>2024-06-17T03:52:01Z</lastmod>
+    <priority>0.22</priority>
+  </url>
+  <url>
+    <loc>/tags/blog/</loc>
+    <lastmod>2024-06-17T03:52:01Z</lastmod>
+    <priority>0.22</priority>
+  </url>
+  <url>
+    <loc>/tags/installation/</loc>
+    <lastmod>2024-06-17T03:52:01Z</lastmod>
+    <priority>0.22</priority>
+  </url>
+</urlset>

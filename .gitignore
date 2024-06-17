@@ -1,5 +1,5 @@
 node_modules/
-.retype/
+# .retype/
 public/
 .env
 npm-debug.log
