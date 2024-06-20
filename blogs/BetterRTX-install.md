@@ -41,7 +41,7 @@ tags: [guide, blog, installation]
 
 ## Installing IOBit Unlocker
 
-1. Download **IOBit Unlocker** from the [official website](https://www.iobit.com/en/iobit-unlocker.php).
+1. Download **IOBit Unlocker** from IOBit's Website: [https://www.iobit.com/en/iobit-unlocker.php](https://www.iobit.com/en/iobit-unlocker.php).
 2. Run the installer and follow the prompts to complete the installation.
 
 ## Setting Up PowerShell Execution Policy
