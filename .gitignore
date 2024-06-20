@@ -10,3 +10,5 @@ npm-debug.log
 *.patch
 *.swp
 config.js
+SECURITY.md
+BingSiteAuth.xml
