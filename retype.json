@@ -43,6 +43,21 @@
         "icon": "/static/discord.svg",
         "iconAlign": "left",
         "target": "blank"
+      },
+      {
+        "text": "Tags",
+        "link": "/tags",
+        "icon": "feed-tag"
+      },
+      {
+        "text": "Issues",
+        "link": "https://github.com/bedrock-rtx/Bedrock-RTX-WiKi/issues",
+        "icon": "issue-opened"
+      },
+      {
+        "text" : "Support",
+        "link" : "/support.md",
+        "icon" : "feed-heart"
       }
     ],
     "navigation": [

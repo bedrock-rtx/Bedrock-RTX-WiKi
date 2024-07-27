@@ -96,6 +96,11 @@ Better RTX is not a texture pack. It does not show in global resource packs. You
 
    <!-- ![Run Script with Path](BetterRTXImages/Run+Script+with+Path.png) -->
 
+## Difference Between `Unrestricted` and `Bypass`
+
+- `Unrestricted`: Allows scripts to run (With user allowance)
+- `Bypass`: Allows scripts to run without requiring the user to press `R` to allow the script to run.
+
 ## Common Issues and Solutions
 
 **Issue: PowerShell window closes immediately after opening**
