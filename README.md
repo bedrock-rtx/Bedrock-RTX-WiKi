@@ -47,6 +47,6 @@ For questions, feedback, or support, reach out to us on [Discord](https://discor
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
+-----
 
 © 2024 Bedrock RTX Community. This site is not affiliated with Mojang Studios.
